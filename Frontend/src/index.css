@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+body {
+  max-width: 100%;
+}
